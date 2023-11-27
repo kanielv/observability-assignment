@@ -12,7 +12,9 @@
   "dependencies": {
     "@opentelemetry/api": "^1.7.0",
     "@opentelemetry/exporter-jaeger": "^1.18.1",
+    "@opentelemetry/exporter-metrics-otlp-grpc": "^0.45.1",
     "@opentelemetry/exporter-metrics-otlp-proto": "^0.45.1",
+    "@opentelemetry/exporter-trace-otlp-grpc": "^0.45.1",
     "@opentelemetry/exporter-trace-otlp-proto": "^0.45.1",
     "@opentelemetry/instrumentation-http": "^0.45.1",
     "@opentelemetry/instrumentation-mongodb": "^0.37.3",
